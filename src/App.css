@@ -1,0 +1,122 @@
+*{
+font-family: 'Manrope';
+}
+.container{
+  width: 1194px;
+  margin: 0 auto;
+}
+.header{
+  display: flex;
+  align-items: center;
+  width: 1194px;
+  height: 72px;
+  gap: 40px;
+  border-bottom: 1px solid #EFEFEF;
+}
+.input{
+  width: 530px;
+  height: 48px;
+  padding: 0px 0px 0px 22px;
+  gap: 10px;
+  border-radius: 30px;
+  opacity: 0px;
+  background-color: #F0F1F2;
+  border: none;
+}
+select{
+border:none;
+}
+.indonezia select{
+color:#4475F2;
+}
+.selects{
+  display: flex;
+  width: 1196px;
+  height:66px;
+  gap: 0px;
+  opacity: 0px;  
+}
+.selects select{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.64px;
+  text-align: left;
+color: #9A9EA6;  
+margin-right: 40px;
+}
+.main{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-top: 43px;
+}
+.plane{
+  width: 299px;
+  height: 36px;
+  gap: 0px;
+  border-radius: 39px;
+  opacity: 0px;
+  background-color: #E5EDFF; 
+  color: #4F7DF3;
+}
+.content h1{
+  font-size: 76px;
+  font-weight: 800;
+  line-height: 89px;
+  letter-spacing: -0.04em;
+  text-align: left;  
+}
+.content h1 span{
+color: #4475F2;
+}
+.content button{
+  width: 198px;
+  height: 60px;
+  top: 685px;
+  left: 120px;
+  gap: 0px;
+  border-radius: 10px ;
+  opacity: 0px;  
+font-size: 16px;
+font-weight: 700;
+line-height: 20.16px;
+text-align: center;
+border: none;
+background-color: transparent;
+}
+.content button:hover{
+color: #fff;
+background-color: #4475F2;
+}
+.content p{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  color: #5E6282;
+}
+.main_img img{
+margin-top: 70px;
+}
+.companys{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.images p{
+  font-family: 'Manrope';
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 26.5px;
+  letter-spacing: 0.095em;
+  text-align: left;
+  color: #4475F2;
+}
+.images h1{
+  font-family: 'Manrope';
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 50px;
+  letter-spacing: -0.01em;
+  text-align: left;  
+}
